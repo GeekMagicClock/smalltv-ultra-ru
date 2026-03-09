@@ -1,2 +1,2 @@
 # smalltv-ultra-ru
-Russia version of smalltv-ultra firmware
+Firmware smalltv-ultra-ru version, special Russia version.
